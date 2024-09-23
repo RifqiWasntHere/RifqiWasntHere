@@ -15,8 +15,8 @@
 
 **📫 How to reach me out**:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rifadhillah/)
-- Email: [Your Email](rifqifadhillahh@gmail.com)
-- Instagram: [@YourTwitter](https://instagram.com/rip.qi)
+- LinkedIn: [](https://www.linkedin.com/in/rifadhillah/)
+- Email: [](rifqifadhillahh@gmail.com)
+- Instagram: [](https://instagram.com/rip.qi)
   
 ![Homer Dance](./homer-the-simpsons.gif)
