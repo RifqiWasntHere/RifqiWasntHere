@@ -18,5 +18,6 @@
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rifadhillah/)
 - Email: [Your Email](rifqifadhillahh@gmail.com)
 - Instagram: [@YourTwitter](https://instagram.com/rip.qi)
-- 
-![GIF](https://tenor.com/view/homer-the-simpsons-dance-wiggle-gif-17689048)
+  
+![Homer Dance](https://media.tenor.com/WLftgbY6ikIAAAAC/homer-the-simpsons-dance.gif)
+
