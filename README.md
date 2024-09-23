@@ -19,4 +19,4 @@
 - Email: [Your Email](rifqifadhillahh@gmail.com)
 - Instagram: [@YourTwitter](https://instagram.com/rip.qi)
   
-![Homer Dance](https://tenor.com/view/homer-the-simpsons-dance-wiggle-gif-17689048)
+![Homer Dance](./homer-the-simpsons.gif)
