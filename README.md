@@ -11,8 +11,6 @@
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RifqiWasntHere&layout=compact&theme=transparent)
-
 **📫 How to reach me out**:
 
 - LinkedIn: [https://www.linkedin.com/in/rifadhillah/](https://www.linkedin.com/in/rifadhillah/)
